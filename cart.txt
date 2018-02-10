@@ -1,0 +1,6 @@
+#<Cart:0x007fe3a98b0f30 @owner_name="John", @in_cart=[{"product"=>#<Product:0x007fe3a98b0e40 @name="Apple", @base_price=1.5, @tax_class="imp">, "quantity"=>5}, {"product"=>#<Product:0x007fe3a98b0da0 @name="Bread", @base_price=3.5, @tax_class="exm">, "quantity"=>10}, {"product"=>#<Product:0x007fe3a98b0d28 @name="Beef", @base_price=10.5, @tax_class="std">, "quantity"=>2}, {"product"=>#<Product:0x007fe3a98b0c88 @name="Chicken", @base_price=5.7, @tax_class="std">, "quantity"=>3}]>
+Total cost before tax: 80.6
+Total cost after tax: 87.053
+#<Cart:0x007fe3a98b0f30 @owner_name="John", @in_cart=[{"product"=>#<Product:0x007fe3a98b0e40 @name="Apple", @base_price=1.5, @tax_class="imp">, "quantity"=>5}, {"product"=>#<Product:0x007fe3a98b0d28 @name="Beef", @base_price=10.5, @tax_class="std">, "quantity"=>2}, {"product"=>#<Product:0x007fe3a98b0c88 @name="Chicken", @base_price=5.7, @tax_class="std">, "quantity"=>3}]>
+Total cost before tax: 45.6
+Total cost after tax: 52.053
